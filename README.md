@@ -1,6 +1,6 @@
 Hi, I’m @ball-3 :)
 
-I am a first year university student studying Physics, Mathematics, and Computer Science.
+I am a second year university student studying Physics, Mathematics, and Computer Science.
 
 I'm learning java right now.
 
